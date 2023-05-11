@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaiBiscuit
 - 👀 I’m interested in Web Design and Game Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Node.js
 
 <!---
 TaiBiscuit/TaiBiscuit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
