@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaiBiscuit
 - 👀 I’m interested in Web Design and Game Development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Java
 - I have knowledge in:
 - :point_right: JavaScript
 - :point_right: CSS
