@@ -3,10 +3,9 @@
 - 🌱 I’m currently learning Java
 - I have knowledge in:
 - :point_right: JavaScript
-- :point_right: CSS
-- :point_right: HTML
-- :point_right: Node.js
 - :point_right: React
+- :point_right: Node.js
+- :point_right: Java
   
   
   
