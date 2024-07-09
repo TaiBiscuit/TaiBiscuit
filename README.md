@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @TaiBiscuit
-- 👀 I’m interested in Web Design and Game Development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Cybersecurity, Web Design and Game Development
+- 
 - I have knowledge in:
 - :point_right: JavaScript
 - :point_right: React
 - :point_right: Node.js
 - :point_right: Java
+- :point_right: Pyhton
   
   
   
